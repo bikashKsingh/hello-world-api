@@ -16,5 +16,5 @@ app.post("/", function (req, res) {});
 
 // start listning
 app.listen(5000, function () {
-  console.log("Server is running");
+  console.log("Server is running at port 5000");
 });
